@@ -36,7 +36,7 @@ And some extended usage:
 This is a private programming project programmed in my spare time. Therefore I
 didn't bother to put it on a public website and github. Please open bug 
 reports, feature requests and pull requests at
-L<https://github.com/rantanplan/fapi>. 
+L<https://codeberg.org/snonux/fapi>. 
 
 B<CAUTION: This script has been tested on Debian GNU/Linux Wheezy only.>
 
